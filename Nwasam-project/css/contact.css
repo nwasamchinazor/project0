@@ -1,0 +1,28 @@
+body {
+  background: #444 !important; }
+
+ul {
+  text-align: center; }
+
+main {
+  margin-top: 15rem; }
+
+table {
+  text-align: center; }
+
+h2 {
+  color: #eece1a; }
+
+td {
+  color: #ffff66;
+  font-size: 20px; }
+  td a {
+    color: dodgerblue; }
+  td > i {
+    color: green; }
+
+.container {
+  /* align-items: center; */
+  /* margin-left: 20rem; */ }
+
+/*# sourceMappingURL=contact.css.map */

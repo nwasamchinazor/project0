@@ -1,0 +1,24 @@
+/* $yellow: #eece1a; */
+body{
+  background: #444 !important;
+}
+  main{
+    margin-top: 15rem;
+  }
+  h2{
+    color: #eece1a;
+  }
+  td{
+    color: #ffff66;
+    font-size: 20px;
+  }
+  td a{
+    color: dodgerblue;
+  }
+td > i{
+  color: green;
+}
+  .container{
+    /* align-items: center; */
+    /* margin-left: 20rem; */
+  }

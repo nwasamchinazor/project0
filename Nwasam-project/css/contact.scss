@@ -1,0 +1,36 @@
+ $yellow: #eece1a;
+
+body{
+  background: #444 !important;
+}
+
+ul{
+  text-align: center;
+}
+
+  main{
+    margin-top: 15rem;
+  }
+
+table{
+  text-align: center;
+}
+
+  h2{
+    color: $yellow;
+  }
+
+  td{
+            color: #ffff66;
+            font-size: 20px;
+         a{
+            color: dodgerblue;
+          }
+        > i{
+          color: green;
+        }
+}
+  .container{
+    /* align-items: center; */
+    /* margin-left: 20rem; */
+  }
